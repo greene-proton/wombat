@@ -1,0 +1,4 @@
+sources:
+  - esp32/src
+includes:
+  - esp32/include
