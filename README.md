@@ -1,2 +1,1 @@
-# mongoose-os-libnmea
-libnmea support for mongoose os
+WIP and for test purposes only
