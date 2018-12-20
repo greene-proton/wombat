@@ -5,7 +5,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-#include "../nmea/nmea.h"
+#include "nmea.h"
 
 #define NMEA_TIME_FORMAT	"%H%M%S"
 #define NMEA_TIME_FORMAT_LEN	6
