@@ -2,3 +2,7 @@ sources:
   - esp32/src
 includes:
   - esp32/include
+libs:
+  - origin: https://github.com/mongoose-os-libs/mongoose
+  - origin: https://github.com/mongoose-os-libs/mbedtls
+  - origin: https://github.com/mongoose-os-libs/vfs-common
